@@ -691,6 +691,16 @@ namespace WeChatGetKey
                     62031872
                 }
             
+            },
+	    { "3.9.10.19",
+                new List<int>
+                {
+                   95129768,
+                   95131104,
+                   95129576,
+                   0,
+                   95131040
+                }
             }
 		};
 		private static IntPtr WeChatWinBaseAddress = IntPtr.Zero;
